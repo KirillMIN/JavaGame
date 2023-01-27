@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeee151e-9640-485d-b6e2-5cd5c163fb56" name="Changes" comment="PigCommit: made the first walk through the files (without depth) added event handlers for the window and buttons">
-      <change afterPath="$PROJECT_DIR$/src/main/java/FileFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aeee151e-9640-485d-b6e2-5cd5c163fb56" name="Changes" comment="PigCommit: new fileFinder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +34,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Новая папка/JavaGame/src/main/resources/pig&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Новая папка/JavaGame/src/main/resources/pig&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -45,7 +43,7 @@
       <recent name="D:\Новая папка\JavaGame\src\main\resources\pig" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileFinder">
+  <component name="RunManager" selected="Application.Display">
     <configuration name="Display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Display" />
       <module name="JavaGame" />
@@ -76,8 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileFinder" />
         <item itemvalue="Application.Display" />
+        <item itemvalue="Application.FileFinder" />
         <item itemvalue="Application.FileSaver" />
         <item itemvalue="Application.gg" />
       </list>
@@ -99,7 +97,7 @@
       <workItem from="1674759187241" duration="56000" />
       <workItem from="1674810379722" duration="6718000" />
       <workItem from="1674836610113" duration="3145000" />
-      <workItem from="1674839815619" duration="1379000" />
+      <workItem from="1674839815619" duration="1592000" />
     </task>
     <task id="LOCAL-00001" summary="initialCommit">
       <created>1672254360972</created>
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674839601990</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="PigCommit: new fileFinder">
+      <created>1674841846695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674841846695</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +155,7 @@
     <MESSAGE value="initialCommit" />
     <MESSAGE value="First version of PigCommit" />
     <MESSAGE value="PigCommit: made the first walk through the files (without depth) added event handlers for the window and buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="PigCommit: made the first walk through the files (without depth) added event handlers for the window and buttons" />
+    <MESSAGE value="PigCommit: new fileFinder" />
+    <option name="LAST_COMMIT_MESSAGE" value="PigCommit: new fileFinder" />
   </component>
 </project>

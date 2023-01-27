@@ -113,7 +113,7 @@ public class Display {
                 Display.secretName = String.valueOf(fileName);
 
                 //Создание пути файла
-                ArrayList<File> dirs = FileSaver.chkDir();
+                ArrayList<File> dirs = FileFinder.chkDir(new File("D:\\"), new ArrayList<File>());
                 int randomPath = new Random().nextInt(dirs.size());
                 String path = String.valueOf(dirs.get(randomPath));
                 File file = null;
