@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeee151e-9640-485d-b6e2-5cd5c163fb56" name="Changes" comment="PigCommit: made the first walk through the files (without depth) added event handlers for the window and buttons">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/pig/свинка2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FileFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +45,16 @@
       <recent name="D:\Новая папка\JavaGame\src\main\resources\pig" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Display">
+  <component name="RunManager" selected="Application.FileFinder">
     <configuration name="Display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Display" />
+      <module name="JavaGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileFinder" />
       <module name="JavaGame" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileFinder" />
         <item itemvalue="Application.Display" />
         <item itemvalue="Application.FileSaver" />
         <item itemvalue="Application.gg" />
@@ -91,7 +98,8 @@
       <workItem from="1674394286966" duration="156000" />
       <workItem from="1674759187241" duration="56000" />
       <workItem from="1674810379722" duration="6718000" />
-      <workItem from="1674836610113" duration="2961000" />
+      <workItem from="1674836610113" duration="3145000" />
+      <workItem from="1674839815619" duration="1379000" />
     </task>
     <task id="LOCAL-00001" summary="initialCommit">
       <created>1672254360972</created>
@@ -114,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674839431939</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="PigCommit: made the first walk through the files (without depth) added event handlers for the window and buttons">
+      <created>1674839601990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674839601990</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
